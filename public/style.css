@@ -1,0 +1,19 @@
+h1{
+    color: purple
+}
+
+.task{
+
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+span{
+}
+
+span:hover{
+    margin-bottom: 5px;
+    color: red;
+}
